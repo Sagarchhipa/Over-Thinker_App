@@ -22,7 +22,7 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    OverThinker is a React-App that is used for see informaion related to movies and web series like Overview, Rating, Runtime, Cast ,Genres, Trailer etc.It is use online database of informaion to show related to films, television series.
+                    OverThinker is a React-App that is used for see information related to movies and web series like Overview, Rating, Runtime, Cast ,Genres, Trailer etc.It is use online database of information to show related to films, television series.
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
